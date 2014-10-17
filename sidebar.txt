@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[glk:home|Door43 (glk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-glk|d43-glk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-glk/archive/master.zip|d43-glk.zip]]
+
+**Recent Changes**
+{{changes>ns = glk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/glk|Ethnologue data]]
+
